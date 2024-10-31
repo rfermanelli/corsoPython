@@ -1,0 +1,1 @@
+print('Benvenuti nel package: package_B')
