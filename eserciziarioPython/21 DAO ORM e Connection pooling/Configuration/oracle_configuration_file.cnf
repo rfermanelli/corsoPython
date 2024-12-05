@@ -1,0 +1,4 @@
+[client]
+user = 'utente_db'
+password = 'utente_db'
+dsn = 'localhost/xe'

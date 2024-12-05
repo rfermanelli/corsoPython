@@ -10,7 +10,9 @@ if len(stringa_1) == len(stringa_2):
         else:
             anagramma = 1
             break
-#
+else:
+    anagramma = 1
+
 if anagramma == 0:
     print('La stringa n. 1 è un angramma della stringa n. 2')
 else:
